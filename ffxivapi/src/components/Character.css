@@ -1,5 +1,11 @@
 .Character {
     text-align: center;
+    color: darkmagenta;
+    font-family: fantasy;
+}
+
+.CharacterName {
+    padding-bottom: 8px;
 }
 
 h1 {
