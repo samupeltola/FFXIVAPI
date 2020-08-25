@@ -1,1 +1,1 @@
-This project is for learning API calls with React using the free XIVAPI.
+This project is for testing the free XIVAPI with React.
